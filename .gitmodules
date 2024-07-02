@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/Sarah-HITIER/DC-Machine_Learning-MNIST_CNN-Frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Sarah-HITIER/DC-Machine_Learning-MNIST_CNN-Backend.git
